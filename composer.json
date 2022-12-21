@@ -1,0 +1,20 @@
+{
+    "name": "1/lw2",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "1\\Lw2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Regallas",
+            "email": "uhbap@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.9",
+        "phpunit/phpunit": "^9.5"
+    }
+    
+}
